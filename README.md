@@ -67,6 +67,7 @@ pyDrone/
 ## Development Resources
 
 - [Wiki (Tutorials & Documentation)](https://wiki.01studio.cc/en/docs/pydrone/)
+- [ESP32 Online Flashing](https://flash.01studio.cc)
 
 ## Changelog
 

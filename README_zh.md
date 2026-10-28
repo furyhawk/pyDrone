@@ -31,9 +31,9 @@ d.control(rol = 0, pit = 0, yaw = 0, thr = 0)
 
 pyDrone v1.1 [点击购买>>](https://item.taobao.com/item.htm?id=678913113280)
 
-![img](hardware/overview/v1.1/front.png)
+![img](hardware/overview/v1.1/front_zh.png)
 
-![img](hardware/overview/v1.1/back.png)
+![img](hardware/overview/v1.1/back_zh.png)
 
 ● 主控：ESP32-S3-WROOM-1 （N16R8; Flash:16MBytes,RAM:8MBytes）支持WiFi/BLE  
 ● 4 x LED（充电指示灯【橙色】，电源指示灯【红色】，校准指示灯【蓝色】，联网指示灯【绿色】）  
@@ -65,6 +65,7 @@ pyDrone/
 ## 开发资源
 
 - [Wiki（教程文档）](https://wiki.01studio.cc/docs/pydrone)
+- [ESP32在线烧录](https://flash.01studio.cc)
 
 ## 更新日志
 
